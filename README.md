@@ -5,7 +5,9 @@ Extraia os arquivos zips.
 Para executar os experimentos execute os comandos abaixo em cada pasta:
 
 $ ./autogen.sh
+
 $ ./configure
+
 $ make
 
 Para executar o aquecimento A, execute o arquivo main.py. Ele irá rodar todas as janelas nele listadas, caso queira modificar as janelas altere no arquivo. Este procedimento dura em torno de uma hora e meia para rodar todas as janelas.
