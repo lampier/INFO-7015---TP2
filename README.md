@@ -18,3 +18,6 @@ Para executar aquecimento B e o exercício 3 execute o comando abaixo:
 
 $ ./run_contest #nomedoprojeto
 
+Confira mais detalhes na Wiki:
+
+https://github.com/lampier/INFO-7015---TP2/wiki
